@@ -6,7 +6,7 @@ function Home() {
         <h1>Welome to GitHub programing</h1>
         <img src='https://images.pexels.com/photos/13306877/pexels-photo-13306877.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load' width="50%"/>
         <img src='https://images.pexels.com/photos/16658578/pexels-photo-16658578/free-photo-of-eagle.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load' width="50%" height="369"/>
-
+        <p>This is a pera in a all saum of u date in to do a lorem </p>
     </div>
   )
 }
